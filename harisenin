@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Agnia Aura Azzahra</title>
+  </head>
+<header>
+   <img src="logo.jpg" alt="Logo Website">
+   <h1>Judul Website</h1>
+     <body>
+    <div class="container">
+      <div class="sidebar">
+        <nav>
+          <ul>
+            <li><a href="">About</a></li>
+            <li><a href="">Shop</a></li>
+            <li><a href="">Blog</a></li>
+            <li><a href="">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+      <main class="content">
+        <section class="hero">
+          <img src="online.png" alt="" />
+          <div class="hero-content">
+            <h1>NEW COLLECTION</h1>
+            <br />
+            <h2>Promo</h2>
+            <br /><br />
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, aperiam dolore
+              assumenda velit repellendus recusandae magni consectetur mollitia facere incidunt
+              inventore perspiciatis debitis doloribus ullam minima culpa voluptatem. Repellendus,
+              option.
+            </p>
+            <a href="" class="action-btn">Login</a>
+          </div>
+        </section>
+      </main>
+      <div class="footer">
+        <footer>
+
+    <div class="footer-content">
+
+        <p>Kontak Kami:</p>
+
+        <p>Email: info@example.com</p>
+
+        <p>Alamat: Jalan Contoh No. 123</p>
+
+    </div>
+
+    <div class="footer-links">
+
+        <ul>
+
+            <li><a href="tentang-kami.html">Tentang Kami</a></li>
+
+            <li><a href="kontak.html">Kontak</a></li>
+
+            <li><a href="kebijakan-privasi.html">Kebijakan Privasi</a></li>
+
+        </ul>
+
+    </div>
+
+    <div class="social-media">
+
+        <a href="#"><img src="facebook.png" alt="Facebook"></a>
+
+        <a href="#"><img src="twitter.png" alt="Twitter"></a>
+
+        <a href="#"><img src="instagram.png" alt="Instagram"></a>
+
+    </div>
+
+    <div class="footer-bottom">
+
+        <p>Hak Cipta &copy; 2023 Contoh Situs Web. Hak Cipta Dilindungi.</p>
+
+    </div>
+
+</footer>
+      </div>
+    </div>
+  </body>
+</header>
+</html>
+      </main>
+      <div class="footer">
+        <footer>
+
+    <div class="footer-content">
+
+        <p>Kontak Kami:</p>
+
+        <p>Email: info@example.com</p>
+
+        <p>Alamat: Jalan Contoh No. 123</p>
+
+    </div>
+
+    <div class="footer-links">
+
+        <ul>
+
+            <li><a href="tentang-kami.html">Tentang Kami</a></li>
+
+            <li><a href="kontak.html">Kontak</a></li>
+
+            <li><a href="kebijakan-privasi.html">Kebijakan Privasi</a></li>
+
+        </ul>
+
+    </div>
+
+    <div class="social-media">
+
+        <a href="#"><img src="facebook.png" alt="Facebook"></a>
+
+        <a href="#"><img src="twitter.png" alt="Twitter"></a>
+
+        <a href="#"><img src="instagram.png" alt="Instagram"></a>
+
+    </div>
+
+    <div class="footer-bottom">
+
+        <p>Hak Cipta &copy; 2023 Contoh Situs Web. Hak Cipta Dilindungi.</p>
+
+    </div>
+
+</footer>
+      </div>
+    </div>
+  </body>
+</header>
+</html>
